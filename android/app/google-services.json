@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271369401511",
+    "project_id": "jankoyer-a30d5",
+    "storage_bucket": "jankoyer-a30d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271369401511:android:846db1dd58e57861ec9782",
+        "android_client_info": {
+          "package_name": "com.pikirbiz.jankoyer_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271369401511-3a12sqqs0urc29alp3641juqvk0r8ss5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pikirbiz.jankoyer_new",
+            "certificate_hash": "86b77bc280287edf0ed70395071e3757939d2f63"
+          }
+        },
+        {
+          "client_id": "271369401511-ll782t1i8mfncohb3lhjam1u2eriiccn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDEHLeza4aj58lSUDj5nUtqiK3Pkd7IrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271369401511-ll782t1i8mfncohb3lhjam1u2eriiccn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
